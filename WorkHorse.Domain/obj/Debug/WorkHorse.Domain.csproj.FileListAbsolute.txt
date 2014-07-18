@@ -1,0 +1,5 @@
+C:\Users\D-Roc\Documents\GitHub\WorkHorse\WorkHorse\WorkHorse.Domain\bin\Debug\WorkHorse.Domain.dll
+C:\Users\D-Roc\Documents\GitHub\WorkHorse\WorkHorse\WorkHorse.Domain\bin\Debug\WorkHorse.Domain.pdb
+C:\Users\D-Roc\Documents\GitHub\WorkHorse\WorkHorse\WorkHorse.Domain\obj\Debug\WorkHorse.Domain.csprojResolveAssemblyReference.cache
+C:\Users\D-Roc\Documents\GitHub\WorkHorse\WorkHorse\WorkHorse.Domain\obj\Debug\WorkHorse.Domain.dll
+C:\Users\D-Roc\Documents\GitHub\WorkHorse\WorkHorse\WorkHorse.Domain\obj\Debug\WorkHorse.Domain.pdb
